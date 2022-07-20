@@ -13,7 +13,7 @@
 https://github.com/UB-Mannheim/tesseract/wiki
 
 # IF MAC
-¯\\_(ツ)_/¯ <p>use an docker maybe ?</p>
+¯\\_(ツ)_/¯ <p>use an docker container maybe ?</p>
 
 # THEN
 
