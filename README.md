@@ -13,7 +13,7 @@ sudo apt-get install libtesseract-dev
 https://github.com/UB-Mannheim/tesseract/wiki
 
 # IF MAC
-¯\_(ツ)_/¯ use an docker maybe ?
+¯\\_(ツ)_/¯ use an docker maybe ?
 
 
 
