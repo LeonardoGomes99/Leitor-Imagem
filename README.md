@@ -1,20 +1,20 @@
 # Leitor-Imagem
 
-pip install opencv-python
-pip install opencv-contrib-python
+<p>pip install opencv-python</p>
+<p>pip install opencv-contrib-python</p>
 
 
 # IF LINUX
-sudo apt-get update
-sudo apt-get install tesseract-ocr
-sudo apt-get install libtesseract-dev
+<p>sudo apt-get update</p>
+<p>sudo apt-get install tesseract-ocr</p>
+<p>sudo apt-get install libtesseract-dev</p>
 
 # IF WINDOWS
 https://github.com/UB-Mannheim/tesseract/wiki
 
 # IF MAC
-¯\\_(ツ)_/¯ use an docker maybe ?
+¯\\_(ツ)_/¯ <p>use an docker maybe ?</p>
 
 
 
-pip install pytesseract
+<p>pip install pytesseract</p>
