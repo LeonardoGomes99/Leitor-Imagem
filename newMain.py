@@ -36,5 +36,6 @@ img_thresh[ img > 255 ] = 255
 # save result
 cv2.imwrite("cupom_upscaled_xLapSRN_X8-Fixed.png", img_thresh)
 
+# leitura da imagem
 text = pytesseract.image_to_string(img)
 print(text)
